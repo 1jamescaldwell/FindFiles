@@ -8,5 +8,4 @@ VideosLog.py is a function for creating/modifying/highlighting excel log sheets 
 Inputs: This script takes in a run log, Video Log.xlsx <br>
 Outputs: The script creates 2 excel files:  <br>
     &#9; Video Log Highlighted.xlsx: The same as the original video log, modified for all files that exist highlighted green, missing files highlighted red <br>
-    &#9; Video Extra Files.xlsx: List of files found that don't match the run log. This script uses pattern matching to find similar files to the desired,
-        &emsp &emsp but this list is files that include bad typos or files that are in the wrong folders.
+    &#9; Video Extra Files.xlsx: List of files found that don't match the run log. This script uses pattern matching to find similar files to the desired, but this list is files that include bad typos or files that are in the wrong folders.
